@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {139946685,112524566,175582173,0,tonumber(our_id)},--Sudo users
+    sudo_users = {108861752,112524566,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -228,18 +228,14 @@ function create_config( )
 An advance Administration bot based on Telegram-CLI written in lua
 
 Admins
-@ferisystem [Founder]
-@mahdi17177 [Manager & Developer]
+@sadaf41 [Founder]
+@sadaf41 [Manager & Developer]
 
 Special thanks to
-PeymanKhanas
-mahdimasih
+LORD MEHDI
 
-our bots for help this bot
-@TeleTard_Supplement_Bot for say hello & bye to members
-@TeleTard_Helper_Bot for help you to work with TeleTard
 Our channels
-@TeleTardCh [Persian]
+[Persian]
 ]],
     help_text = [[
 Commands list :
